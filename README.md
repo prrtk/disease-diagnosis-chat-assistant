@@ -1,1 +1,0 @@
-# disease-diagnosis-chat-assistant
