@@ -1,0 +1,19 @@
+# Ignore virtual environment
+arogo_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore other common large or unnecessary files
+*.zip
+*.tar
+*.gz
+node_modules/
